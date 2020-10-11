@@ -8,7 +8,7 @@
     <link href="<?php echo get_template_directory_uri(); ?>/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-  <link href="<?php echo get_template_directory_uri(); ?>/css/custom.css" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri(); ?>/css/custom.css" rel="stylesheet">
     
     <title>Document</title>
     <?php wp_head(); ?>

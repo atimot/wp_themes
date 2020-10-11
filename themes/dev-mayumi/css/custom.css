@@ -1,0 +1,64 @@
+html, body{
+    margin:0px; padding:0px;
+    color: #fff;
+}
+
+section {
+    /* background-image: url(../images/backimg_fude.png); */
+    background-color: #000;
+    background-size: cover;
+}
+
+.container {
+    height: 1000px;
+    padding: 100px 0;
+}
+
+.section-title {
+    /* padding: 100px 0; */
+    margin-bottom: 80px;
+}
+
+.box {
+    padding: 0 auto;
+}
+
+
+.card {
+    /* top: 100px; */
+    background-color: transparent;
+}
+
+.backimg-hinomaru {
+    width: 682px;
+}
+
+.logo-shinjapan {
+    top: 70px;
+    width: 438px;
+}
+
+.hinomaru-text {
+    top: 250px;
+    line-height: 3em;
+}
+
+.logo-shomayumi {
+    top: 530px;
+    width: 188px;
+    margin-top: 20px;
+}
+
+.profile-img {
+    height: 590px;
+    margin-right: 80px;
+}
+
+.profile-text {
+    line-height: 2.5em;
+    font-size: 14px;
+}
+
+.form-group {
+    margin-bottom: 40px;
+}
